@@ -1,5 +1,5 @@
 # 💫 About Me: I'm Jayesh Kumar Goyal
-🚀  I’m currently working on building efficient and scalable applications, from Android apps to low-level systems, including AI/ML-powered solutions.<br>👥 I’m looking to collaborate on software development, computer vision, AI/ML, and hackathon projects.<br>🤝 I’m looking for help with advanced NLP, AR, and system-level optimizations.<br>🌱 I’m currently learning database optimization, algorithms, scalable architectures, and AI/ML model development.<br>💬 Ask me about full-stack development, computer vision, and algorithm optimization.<br>⚡ Fun fact: I love optimizing software, from high-level applications to low-level assembly!
+🚀  I’m currently working on building efficient and scalable applications, from Android apps to low-level systems, including AI/ML-powered solutions.<br>👥 I’m looking to collaborate on software development, computer vision, AI/ML, and hackathon projects.<br>🤝 I’m looking for help with advanced NLP, AR, and system-level optimizations.<br>🌱 I’m currently learning database optimization, algorithms, scalable architectures, and AI/ML model development.<br>💬 Ask me about full-stack development, computer vision, and algorithm optimization.<br>
 
 
 ## 🌐 Socials:
