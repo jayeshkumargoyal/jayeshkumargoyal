@@ -147,16 +147,12 @@ graph LR
 
 ## 🌟 Fun Facts
 
-<div align="center">
-
 - 🎵 **Music**: I code better with lo-fi beats in the background
 - ☕ **Fuel**: Coffee is my debugging companion
 - 🌙 **Schedule**: Night owl developer (peak productivity at 2 AM)
 - 🎮 **Gaming**: Love solving puzzles and strategy games
 - 📚 **Learning**: Always exploring new technologies and frameworks
 - 🏆 **Hackathons**: Passionate about rapid prototyping and problem-solving
-
-</div>
 
 ---
 
