@@ -1,33 +1,35 @@
-# 👋 Hi there, I'm Jayesh Kumar Goyal
+# 👋 Hi, I'm Jayesh Kumar Goyal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Computer+Vision+Expert;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
+
+Building useful software across web, mobile, and AI. I like turning fuzzy ideas into fast, reliable products and learning in public.
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** and **AI/ML Enthusiast** with expertise in building efficient and scalable applications. My journey spans from Android development to low-level systems programming, with a strong focus on AI/ML-powered solutions.
+**Software Engineer** and **Full-Stack Developer** with experience from Android and systems to modern web. I enjoy shipping features end-to-end and making things simpler and faster.
 
 ### 🎯 What I Do
-- 🔧 **Full-Stack Development**: Building end-to-end applications with modern frameworks
-- 🤖 **AI/ML Solutions**: Developing intelligent systems and computer vision applications
-- 📱 **Mobile Development**: Creating cross-platform mobile applications
-- 🏗️ **System Architecture**: Designing scalable and efficient systems
-- 🧠 **Algorithm Optimization**: Solving complex problems with optimized solutions
+- 🔧 **Full-Stack Apps**: React, Next.js, FastAPI, Node.js
+- 🤖 **AI/ML & Computer Vision**: Prototypes and integrations
+- 📱 **Mobile Projects**: React Native, Android development
+- 🏗️ **System & Data Design**: Performance-focused architecture
+- 🧠 **Algorithms & Problem Solving**: Clarity and speed focus
 
 ### 🌱 Currently Learning
-- Database optimization and performance tuning
-- Advanced algorithms and data structures
-- Scalable microservices architecture
-- AI/ML model development and deployment
+- Database tuning and query planning
+- Advanced data structures and algorithms
+- Microservices and event-driven patterns
+- MLOps model deployment and monitoring
 - System-level optimizations
 
 ### 🤝 Collaboration Interests
-- Software development projects
-- Computer vision applications
-- AI/ML research and development
-- Hackathon projects and prototypes
-- Open source contributions
+- Product-focused software projects
+- Computer vision and agentic AI
+- Research-flavored build sprints
+- Hackathons and rapid prototypes
+- Open source issues and features
 
 ## 🌐 Connect With Me
 
@@ -99,13 +101,13 @@ I'm a passionate **Full-Stack Developer** and **AI/ML Enthusiast** with expertis
 <div align="center">
 
 ```python
-def current_learning():
+def software_engineer_focus():
     return {
-        "database_optimization": "Advanced query optimization and indexing",
-        "algorithms": "Complex data structures and algorithm design",
-        "microservices": "Scalable architecture patterns",
-        "ai_ml": "Model development and deployment",
-        "system_optimization": "Performance tuning and monitoring"
+        "database_tuning": "Query planning and performance optimization",
+        "algorithms": "Advanced data structures and problem solving",
+        "microservices": "Event-driven patterns and scalable architecture",
+        "mlops": "Model deployment and monitoring systems",
+        "system_optimization": "Performance tuning and system-level improvements"
     }
 ```
 
@@ -115,12 +117,12 @@ def current_learning():
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🎨 **Portfolio Website** | Personal portfolio with modern design | React, Node.js, MongoDB | 🚧 In Progress |
-| 🤖 **AI Chatbot** | Intelligent conversational AI | Python, TensorFlow, NLP | 🚧 In Progress |
-| 📱 **Mobile App** | Cross-platform mobile application | Flutter, Firebase | 🚧 In Progress |
-| 🌐 **Web Dashboard** | Real-time analytics dashboard | React, Django, PostgreSQL | 🚧 In Progress |
+| Project | Description | Tech Stack | Status | Link |
+|---------|-------------|------------|--------|------|
+| 🎨 **Portfolio Website** | Modern personal portfolio showcasing my work | React, Next.js, Vercel | ✅ Live | [View Site](https://my-portfolio-zeta-three-76.vercel.app/) |
+| 💰 **Wealth.io** | Unified banking hub for multi-institution management | React, Node.js, Express | ✅ Live | [View App](https://financial-instituion-simulator.vercel.app/sign-in) |
+| 🧭 **CrowdNav** | Real-time crowd density analysis and pathfinding | Python, OpenCV, Flask, React | 🏆 Hackathon Winner | [View Project](https://devpost.com/software/crowdnav) |
+| 🚗 **DriveSafe** | AI-powered driver alertness monitoring system | Python, OpenCV, EEG, React | 🏆 Hackathon Winner | [View Project](https://devpost.com/software/nathacks) |
 
 </div>
 
@@ -153,6 +155,17 @@ graph LR
 
 </div>
 
+## 🏆 Hackathon Achievements
+
+<div align="center">
+
+### Recent Wins
+- 🥇 **HackED 2025**: CrowdNav - Real-time crowd navigation system
+- 🥇 **natHACKS 2024**: DriveSafe - AI-powered driver safety monitoring
+- 🚀 **Multiple Projects**: Building solutions that solve real-world problems
+
+</div>
+
 ## 🌟 Fun Facts
 
 <div align="center">
@@ -162,6 +175,7 @@ graph LR
 - 🌙 **Schedule**: Night owl developer (peak productivity at 2 AM)
 - 🎮 **Gaming**: Love solving puzzles and strategy games
 - 📚 **Learning**: Always exploring new technologies and frameworks
+- 🏆 **Hackathons**: Passionate about rapid prototyping and problem-solving
 
 </div>
 
