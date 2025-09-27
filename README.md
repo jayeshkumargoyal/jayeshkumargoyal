@@ -24,13 +24,6 @@ Building useful software across web, mobile, and AI. I like turning fuzzy ideas 
 - MLOps model deployment and monitoring
 - System-level optimizations
 
-### 🤝 Collaboration Interests
-- Product-focused software projects
-- Computer vision and agentic AI
-- Research-flavored build sprints
-- Hackathons and rapid prototypes
-- Open source issues and features
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -46,8 +39,6 @@ Building useful software across web, mobile, and AI. I like turning fuzzy ideas 
 </div> 
 
 ## 💻 Tech Stack
-
-<div align="center">
 
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -93,8 +84,6 @@ Building useful software across web, mobile, and AI. I like turning fuzzy ideas 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-</div>
-
 
 ## 🎯 Current Focus
 
@@ -121,8 +110,8 @@ def software_engineer_focus():
 |---------|-------------|------------|--------|------|
 | 🎨 **Portfolio Website** | Modern personal portfolio showcasing my work | React, Next.js, Vercel | ✅ Live | [View Site](https://my-portfolio-zeta-three-76.vercel.app/) |
 | 💰 **Wealth.io** | Unified banking hub for multi-institution management | React, Node.js, Express | ✅ Live | [View App](https://financial-instituion-simulator.vercel.app/sign-in) |
-| 🧭 **CrowdNav** | Real-time crowd density analysis and pathfinding | Python, OpenCV, Flask, React | 🏆 Hackathon Winner | [View Project](https://devpost.com/software/crowdnav) |
-| 🚗 **DriveSafe** | AI-powered driver alertness monitoring system | Python, OpenCV, EEG, React | 🏆 Hackathon Winner | [View Project](https://devpost.com/software/nathacks) |
+| 🧭 **CrowdNav** | Real-time crowd density analysis and pathfinding | Python, OpenCV, Flask, React | #HackED 2025 | [View Project](https://devpost.com/software/crowdnav) |
+| 🚗 **DriveSafe** | AI-powered driver alertness monitoring system | Python, OpenCV, EEG, React | #natHACKS 2024 | [View Project](https://devpost.com/software/nathacks) |
 
 </div>
 
@@ -155,16 +144,6 @@ graph LR
 
 </div>
 
-## 🏆 Hackathon Achievements
-
-<div align="center">
-
-### Recent Wins
-- 🥇 **HackED 2025**: CrowdNav - Real-time crowd navigation system
-- 🥇 **natHACKS 2024**: DriveSafe - AI-powered driver safety monitoring
-- 🚀 **Multiple Projects**: Building solutions that solve real-world problems
-
-</div>
 
 ## 🌟 Fun Facts
 
