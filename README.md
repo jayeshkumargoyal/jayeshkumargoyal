@@ -109,30 +109,10 @@ def software_engineer_focus():
 | Project | Description | Tech Stack | Status | Link |
 |---------|-------------|------------|--------|------|
 | 🎨 **Portfolio Website** | Modern personal portfolio showcasing my work | React, Next.js, Vercel | ✅ Live | [View Site](https://my-portfolio-zeta-three-76.vercel.app/) |
+| 🧠 **Early Burnout Detection System** | Manager-facing tool that tracks workload risk across recurring meetings using trend analysis and explainable AI signals. | Next.js, Prisma, PostgreSQL, OpenAI | ✅ Live | [View Project](https://burnout-early-warning-system.vercel.app/) |
 | 💰 **Wealth.io** | Unified banking hub for multi-institution management | React, Node.js, Express | ✅ Live | [View App](https://financial-instituion-simulator.vercel.app/sign-in) |
 | 🧭 **CrowdNav** | Real-time crowd density analysis and pathfinding | Python, OpenCV, Flask, React | #HackED 2025 | [View Project](https://devpost.com/software/crowdnav) |
 | 🚗 **DriveSafe** | AI-powered driver alertness monitoring system | Python, OpenCV, EEG, React | #natHACKS 2024 | [View Project](https://devpost.com/software/nathacks) |
-
-</div>
-
-## 📈 Development Activity
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Learning] --> B[Building]
-    B --> C[Testing]
-    C --> D[Deploying]
-    D --> E[Optimizing]
-    E --> A
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-```
 
 </div>
 

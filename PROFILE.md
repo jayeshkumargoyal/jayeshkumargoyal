@@ -74,27 +74,6 @@ current_learning = {
 - **Prototyping**: Creating interactive prototypes and mockups
 - **Branding**: Developing visual identity and brand guidelines
 
-## 📈 Development Activity
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Learning] --> B[Building]
-    B --> C[Testing]
-    C --> D[Deploying]
-    D --> E[Optimizing]
-    E --> A
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-```
-
-</div>
-
 ## 🎯 Future Goals
 
 - **🚀 Advanced AI/ML**: Deep dive into advanced machine learning and AI research
