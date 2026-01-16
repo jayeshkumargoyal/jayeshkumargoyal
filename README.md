@@ -127,7 +127,6 @@ def software_engineer_focus():
 
 ## 🌟 Fun Facts
 
-- 🎵 **Music**: I code better with lo-fi beats in the background
 - ☕ **Fuel**: Coffee is my debugging companion
 - 🌙 **Schedule**: Night owl developer (peak productivity at 2 AM)
 - 🎮 **Gaming**: Love solving puzzles and strategy games
