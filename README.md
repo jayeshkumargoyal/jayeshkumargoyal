@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jayesh Kumar Goyal
+# 👋 Heyy, I'm Jayesh Kumar Goyal
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
